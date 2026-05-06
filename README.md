@@ -1,7 +1,6 @@
 用法: ./banip.sh [选项] <IP地址/网段>
 
 选项:
-
   -ban, --block    封禁指定的IP地址/网段
   
   -unban, --unblock 解封指定的IP地址/网段
